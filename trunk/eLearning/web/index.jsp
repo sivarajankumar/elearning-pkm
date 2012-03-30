@@ -34,12 +34,12 @@
                       <tr>
                         <td colspan="2"><form name="form1" method="post" action="">
                           <label><span class="style4">Username
-                            <input type="text" name="textfield">
+                            <input type="text" name="username">
                           </span></label>
                           <p>
                             <span class="style4">
                             <label>Password
-                            <input type="text" name="textfield2">
+                            <input type="text" name="password">
                             </label>
                           </span> </p>
                         </form>                        </td>
